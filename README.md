@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte da **Trilha Java Básico** da [Digital 
 
 ## 🔗 Link do Desafio
 
-📄 [Enunciado oficial no GitHub da DIO](https://github.com/digitalinnovationone/trilha-java-basico/tree/main)
+📄 [Enunciado oficial no GitHub da DIO](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
 ## 📚 Descrição do Desafio
 
